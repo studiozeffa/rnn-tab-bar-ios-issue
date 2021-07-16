@@ -10,3 +10,5 @@ To reproduce:
 - Notice that the tabs now clip the content view
 
 As an aside, if the user taps on another tab, then returns, the content is no longer clipped.
+
+This is only an issue on iOS. The same code works fine on Android.
