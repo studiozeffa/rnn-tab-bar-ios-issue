@@ -12,3 +12,6 @@ To reproduce:
 As an aside, if the user taps on another tab, then returns, the content is no longer clipped.
 
 This is only an issue on iOS. The same code works fine on Android.
+
+https://user-images.githubusercontent.com/820863/125979445-7213ec7c-8bf5-4c75-aa9b-95821dcc3f82.mp4
+
